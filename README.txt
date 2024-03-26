@@ -1,3 +1,5 @@
+Full Stack App with FastAPI and Vercel
+
 Sto lavorando in Windows quindi non ho bisogno di installare postgress con brew
 
 Ho avuto problemi con i permessi dell'utente user12, ho risolto con PgAdmin aggiungendo superuser tra i Privilegi
