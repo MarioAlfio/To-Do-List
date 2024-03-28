@@ -42,7 +42,8 @@ def connect_to_database():
         user=DATABASE_USER,
         password=DATABASE_PASSWORD,
         host=DATABASE_HOST,
-        port=DATABASE_PORT
+        port=DATABASE_PORT,
+        oakey=OPENAI_KEY
     )
     return conn
 
